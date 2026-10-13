@@ -57,27 +57,32 @@ No desenvolvimento cotidiano, também utilizo **Zod, TanStack Query, React Hook 
 - **Segurança desde o desenho:** autorização no servidor, isolamento de dados, validação de entradas e cuidado com informações sensíveis em logs e integrações.
 - **Operação como parte do produto:** logs estruturados, rastreabilidade de requisições e observabilidade para investigar problemas após o deploy.
 
+<!-- SVG com URL ABSOLUTA -->
 <p align="center">
-  <img src="assets/destaques-engenharia.svg" alt="Destaques de engenharia — arquitetura, qualidade, entrega e observabilidade" width="100%" />
+  <img src="https://raw.githubusercontent.com/rukioi/rukioi/main/.github/assets/destaques-engenharia.svg" alt="Destaques de engenharia — arquitetura, qualidade, entrega e observabilidade" width="100%" />
 </p>
 
 ## Atividade no GitHub
 
+<!-- Estatísticas gerais + linguagens mais usadas (URL alternativa que funciona) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rukioi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Murilo Barros" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukioi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360" alt="Linguagens mais usadas por Murilo Barros" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=rukioi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Murilo Barros" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rukioi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360" alt="Linguagens mais usadas por Murilo Barros" />
 </p>
 
+<!-- Sequência de contribuições (URL alternativa que funciona) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rukioi&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de Murilo Barros" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rukioi&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de Murilo Barros" />
 </p>
 
+<!-- Resumo detalhado do perfil (mantido, mas sujeito a instabilidade) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rukioi&theme=tokyonight" alt="Resumo do perfil de Murilo Barros" width="100%" />
 </p>
 
+<!-- SVG com URL ABSOLUTA -->
 <p align="center">
-  <img src=".github/assets/ciclo-desenvolvimento.svg" alt="Ciclo de desenvolvimento — do requisito à produção" width="100%" />
+  <img src="https://raw.githubusercontent.com/rukioi/rukioi/main/.github/assets/ciclo-desenvolvimento.svg" alt="Ciclo de desenvolvimento — do requisito à produção" width="100%" />
 </p>
 
 <sub>Os gráficos de estatísticas utilizam as contribuições públicas disponibilizadas pelo GitHub. Parte do trabalho com produtos e organizações pode não aparecer nessas métricas.</sub>
