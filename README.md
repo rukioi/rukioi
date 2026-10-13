@@ -58,7 +58,7 @@ No desenvolvimento cotidiano, também utilizo **Zod, TanStack Query, React Hook 
 - **Operação como parte do produto:** logs estruturados, rastreabilidade de requisições e observabilidade para investigar problemas após o deploy.
 
 <p align="center">
-  <img src=".github/assets/destaques-engenharia.svg" alt="Destaques de engenharia — arquitetura, qualidade, entrega e observabilidade" width="100%" />
+  <img src="assets/destaques-engenharia.svg" alt="Destaques de engenharia — arquitetura, qualidade, entrega e observabilidade" width="100%" />
 </p>
 
 ## Atividade no GitHub
